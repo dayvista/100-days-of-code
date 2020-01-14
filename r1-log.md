@@ -1,10 +1,10 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - William Davis - liam@dayvista.work
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### For days prior to my 13th day, please visit my Twitter profile @ twitter.com/dayvista_dev.
+### I chose to fork this repo in order to add another layer of accountability to my pursuit of completing the #100DaysOfCode challenge.
 
-### R1D2
+### Day 13
