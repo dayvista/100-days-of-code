@@ -22,3 +22,11 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Thoughts**: I'm interested to work with Flexbox and Grid, and to learn the use cases for each one. Studying for hours every day can be grueling, but I will master this material eventually. It's all about the incremental progress (10,000 hours). Cry in the dojo, sweat on the battlefield (or something like that). Should start the design projects for this certification tomorrow or the next day.
 
 **Link(s) to Work**: 1. [Responsive Web Design Certification Pts. 4-6](https://www.freecodecamp.org/learn/)
+
+### Day 15: January 17th, 2020
+
+**Today's Progress**: I completed the CSS Grid module on FCC and moved onto the projects. I began the Tribute Page project and worked on it for ~1 hr.
+
+**Thoughts**: I've heard that starting anything new is like getting a rocket-ship into space. At first, it requires immense amounts of energy and redirection, and then it becomes smooth sailing once you break into orbit (read: break through your crusty old habits). It took me about an hour just to figure out how to get responsive images onto my website. Nonetheless, once I get into that flow state, this stuff actually becomes fun.
+
+**Link(s) to Work**: 1. [Responsive Web Design Certification Pt. 7 + Tribute Page Project](https://www.freecodecamp.org/learn/)
