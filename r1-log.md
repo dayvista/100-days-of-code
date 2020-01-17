@@ -14,3 +14,11 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Thoughts**: I love working with HTML and CSS. I look forward to applying these lessons to my own personal webpage creations. I'm also looking forward to the responsive web design projects. Maybe I'll love it less when I get deep into creating my own pages. Lol.
 
 **Link(s) to Work**: 1. [Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/)
+
+### Day 14: January 16th, 2020
+
+**Today's Progress**: Made it through Applied Accessibility, Responsive Web Design Principles, and CSS Flexbox in the Responsive Web Design portion of FCC. Made it about halfway through CSS Grid.
+
+**Thoughts**: I'm interested to work with Flexbox and Grid, and to learn the use cases for each one. Studying for hours every day can be grueling, but I will master this material eventually. It's all about the incremental progress (10,000 hours). Cry in the dojo, sweat on the battlefield (or something like that). Should start the design projects for this certification tomorrow or the next day.
+
+**Link(s) to Work**: 1. [Responsive Web Design Certification Pts. 4-6](https://www.freecodecamp.org/learn/)
