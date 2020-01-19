@@ -30,3 +30,11 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Thoughts**: I've heard that starting anything new is like getting a rocket-ship into space. At first, it requires immense amounts of energy and redirection, and then it becomes smooth sailing once you break into orbit (read: break through your crusty old habits). It took me about an hour just to figure out how to get responsive images onto my website. Nonetheless, once I get into that flow state, this stuff actually becomes fun.
 
 **Link(s) to Work**: 1. [Responsive Web Design Certification Pt. 7 + Tribute Page Project](https://www.freecodecamp.org/learn/)
+
+### Day 16: January 18th, 2020
+
+**Today's Progress**: Worked on the Tribute Page project. Formatted the images and text. Added cards behind content of page.
+
+**Thoughts**: I need to figure out how to push the footer card below the content card. I'm nearly finished! This is fun.
+
+**Link(s) to Work**: 1. [Responsive Web Design Certification Tribute Page Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
