@@ -38,3 +38,11 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Thoughts**: I need to figure out how to push the footer card below the content card. I'm nearly finished! This is fun.
 
 **Link(s) to Work**: 1. [Responsive Web Design Certification Tribute Page Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
+
+### Day 17: January 19th, 2020
+
+**Today's Progress**: Finished the Tribute Page project! I perfected the cards, hyperlinked an image, and added a button. Made the site totally responsive (mobile-first, even).
+
+**Thoughts**: All that hard worked paid off. Onto the next project! :D
+
+**Link(s) to Work**: 1. [Completed Tribute Page Project](https://dayvista.work/tribute)
