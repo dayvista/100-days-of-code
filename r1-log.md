@@ -51,6 +51,14 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 **Today's Progress**: Got to work on the FCC Survey Page project. Made the barebones template for what will soon become a thing of glory.
 
-**Thoughts**: Starting a new project is always the hardest. Once it starts to pan out, and the problems that I actually have to solve become transparent, I enjoy the process much more. However, it is not about enjoyment beyond my intrinsic fascination with the act of coding itself. It is about sitting down and doing the work, regardless of how I feel on any given day.
+**Thoughts**: Starting a new project is always the hardest part. Once it starts to pan out, and the problems that I actually have to solve become transparent, I enjoy the process much more. However, it is not about enjoyment beyond my intrinsic fascination with the act of coding itself. It is about sitting down and doing the work, regardless of how I feel on any given day.
+
+**Link(s) to Work**: 1. [Survey Page Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
+
+### Day 19: January 21th, 2020
+
+**Today's Progress**: Kept working on the Survey project. I became familiar with the actual structure of an HTML/CSS survey webpage. I'll likely finish within 2 days if I follow the trajectory I set out for myself.
+
+**Thoughts**: Half of coding feels like figuring out what problems I'm actually trying to solve. I'm looking forward to becoming more fluent with the architecture of HTML and CSS documents.
 
 **Link(s) to Work**: 1. [Survey Page Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
