@@ -55,10 +55,18 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 **Link(s) to Work**: 1. [Survey Page Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
 
-### Day 19: January 21th, 2020
+### Day 19: January 21st, 2020
 
 **Today's Progress**: Kept working on the Survey project. I became familiar with the actual structure of an HTML/CSS survey webpage. I'll likely finish within 2 days if I follow the trajectory I set out for myself.
 
 **Thoughts**: Half of coding feels like figuring out what problems I'm actually trying to solve. I'm looking forward to becoming more fluent with the architecture of HTML and CSS documents.
+
+**Link(s) to Work**: 1. [Survey Page Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
+
+### Day 20: January 22nd, 2020
+
+**Today's Progress**: I spent an hour figuring out how to align form elements along a vertical columnar axis. -.-' I continued onto the list elements of the HTML page.
+
+**Thoughts**: After telling my girlfriend that I spent an hour trying to figure out how to do one simple thing, she told me, "you learned patience and perseverance!" Amen to that. I was very tired from working my 9 to 5 today, and feeling generally burned out. Once I started coding, I felt much better. Just knowing that there are career opportunities out there for this line of work fuels my drive significantly.
 
 **Link(s) to Work**: 1. [Survey Page Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
