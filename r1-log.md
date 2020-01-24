@@ -70,3 +70,12 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Thoughts**: After telling my girlfriend that I spent an hour trying to figure out how to do one simple thing, she told me, "you learned patience and perseverance!" Amen to that. I was very tired from working my 9 to 5 today, and feeling generally burned out. Once I started coding, I felt much better. Just knowing that there are career opportunities out there for this line of work fuels my drive significantly.
 
 **Link(s) to Work**: 1. [Survey Page Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
+
+### Day 21: January 23rd, 2020
+
+**Today's Progress**: I finished the Survey Page project on FCC. I moved onto the Product Landing Page project. I started creating the template for the website in HTML and CSS. A responsive nav bar was created.
+
+**Thoughts**: I feel much more productive with a mechanical full-size keyboard and a second monitor. Having a day off of work also helps. Gotta use the free time when it comes. I love this learning process because it's helping me to structure the rest of my life. I'm having to let go of bad habits one by one because I need my brain as un-cluttered as possible. It feels great using the computer and internet for productivity, when they've sucked up so much of my free time in the past.
+
+**Link(s) to Work**: 1. [Completed Survey Page Project](https://dayvista.work/survey)
+2. [Product Landing Page Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
