@@ -105,3 +105,14 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 **Link(s) to Work**:
 1. [Product Landing Page Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+
+
+### Day 23: January 25th, 2020
+
+**Today's Progress**: I spent a couple hours making a number of small adjustments to the layout of the Brave the Day Boutique website. The color scheme was changed. I spent most of the day adjusting the responsiveness of the website. Much was learned about creating responsive websites in pure HTML/CSS.
+
+**Thoughts**: I'm starting to get the hang of responsive design, as well as how to work with divs like nav bars and containers. Coding can be so difficult, and then something suddenly clicks into place after hours of going back and forth on minutia. It's basically learning incarnate.
+
+**Link(s) to Work**:
+1. [Product Landing Page Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+2. [My Current Progress on the Project](https://bravetheday.boutique)
