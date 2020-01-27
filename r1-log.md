@@ -116,3 +116,14 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Link(s) to Work**:
 1. [Product Landing Page Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
 2. [My Current Progress on the Project](https://bravetheday.boutique)
+
+
+### Day 24: January 26th, 2020
+
+**Today's Progress**: I spent yet another couple hours finally figuring out exactly how to make a responsive side-nav-bar. I made some other minor adjustments to the formatting of the website.
+
+**Thoughts**: That was grueling. I'm excited to get past the cryptic and gratuitous additions, though. Now I can finally start adding content!
+
+**Link(s) to Work**:
+1. [Product Landing Page Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+2. [My Current Progress on the Project](https://bravetheday.boutique)
