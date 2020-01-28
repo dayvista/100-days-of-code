@@ -54,7 +54,7 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Thoughts**: All that hard worked paid off. Onto the next project! :D
 
 **Link(s) to Work**:
-1. [Completed Tribute Page Project](https://dayvista.work/tribute)
+1. [Completed Tribute Page Project](https://codepen.io/dayvista/pen/MWYRdBR)
 
 
 ### Day 18: January 20th, 2020
@@ -93,7 +93,7 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Thoughts**: I feel much more productive with a mechanical full-size keyboard and a second monitor. Having a day off of work also helps. Gotta use the free time when it comes. I love this learning process because it's helping me to structure the rest of my life. I'm having to let go of bad habits one by one because I need my brain as un-cluttered as possible. It feels great using the computer and internet for productivity, when they've sucked up so much of my free time in the past.
 
 **Link(s) to Work**:
-1. [Completed Survey Page Project](https://dayvista.work/survey)
+1. [Completed Survey Page Project](https://codepen.io/dayvista/pen/rNabgPB)
 2. [Product Landing Page Project Info](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
 
 
@@ -115,7 +115,7 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 **Link(s) to Work**:
 1. [Product Landing Page Project Info](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
-2. [My Current Progress on the Project](https://bravetheday.boutique/about.html)
+2. [My Current Progress on the Project](https://codepen.io/dayvista/pen/WNbYPEb)
 
 
 ### Day 24: January 26th, 2020
@@ -126,7 +126,7 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 **Link(s) to Work**:
 1. [Product Landing Page Project Info](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
-2. [My Current Progress on the Project](https://bravetheday.boutique/about.html)
+2. [My Current Progress on the Project](https://codepen.io/dayvista/pen/WNbYPEb)
 
 
 ### Day 25: January 27th, 2020
@@ -137,4 +137,15 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 **Link(s) to Work**:
 1. [Product Landing Page Project Info](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
-2. [The Finished Product! (pun most intended)](https://bravetheday.boutique/about.html)
+2. [The Finished Product! (pun most intended)](https://codepen.io/dayvista/pen/WNbYPEb)
+
+
+### Day 26: January 28th, 2020
+
+**Today's Progress**: I ported all of my previous projects over to CodePen. Now I can edit the ones that involve real-world applications, and preserve the functionality of the original pages that were made for FCC projects. I managed to complete all of the requirements for the 4th Responsive Web Design project, the Technical Documentation Page, and turn it in. I still need to complete it aesthetically and add content besides base functionality.
+
+**Thoughts**: Looking forwards: Once I complete the Responsive Web Design certification process, I'm going to start offering my services on various freelancing portals in order to gain more real-world experience and generally expand my portfolio. But first, I need a portfolio/resume webpage!
+
+**Link(s) to Work**:
+1. [Technical Documentation Page Project Info](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
+2. [Finished Project](https://bravetheday.boutique/about.html)
