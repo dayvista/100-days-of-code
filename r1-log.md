@@ -94,7 +94,7 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 **Link(s) to Work**:
 1. [Completed Survey Page Project](https://dayvista.work/survey)
-2. [Product Landing Page Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+2. [Product Landing Page Project Info](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
 
 
 ### Day 22: January 24th, 2020
@@ -104,7 +104,7 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Thoughts**: I really need to pace myself and be generally patient with my efforts, especially on days that I work my regular job. It's okay if I only code for an hour. The intention to succeed and the drive to continuously learn are there. No need to worry. Worry implies the possibility of failure. Oh, also, naps are VITAL.
 
 **Link(s) to Work**:
-1. [Product Landing Page Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+1. [Product Landing Page Project Info](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
 
 
 ### Day 23: January 25th, 2020
@@ -114,8 +114,8 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Thoughts**: I'm starting to get the hang of responsive design, as well as how to work with divs like nav bars and containers. Coding can be so difficult, and then something suddenly clicks into place after hours of going back and forth on minutia. It's basically learning incarnate.
 
 **Link(s) to Work**:
-1. [Product Landing Page Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
-2. [My Current Progress on the Project](https://bravetheday.boutique)
+1. [Product Landing Page Project Info](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+2. [My Current Progress on the Project](https://bravetheday.boutique/about.html)
 
 
 ### Day 24: January 26th, 2020
@@ -125,5 +125,16 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Thoughts**: That was grueling. I'm excited to get past the cryptic and gratuitous additions, though. Now I can finally start adding content!
 
 **Link(s) to Work**:
-1. [Product Landing Page Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
-2. [My Current Progress on the Project](https://bravetheday.boutique)
+1. [Product Landing Page Project Info](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+2. [My Current Progress on the Project](https://bravetheday.boutique/about.html)
+
+
+### Day 25: January 27th, 2020
+
+**Today's Progress**: The Product Landing Page project is complete! I also made a number of significant aesthetic modifications. The responsiveness of the page was also adjusted.
+
+**Thoughts**: When I first started the Responsive Web Design certification, I was grateful to be working with a spatial language such as CSS. Now I can't wait to learn Javascript and work in a more logic-based ecosystem. CSS feels like Jenga sometimes. -.-*
+
+**Link(s) to Work**:
+1. [Product Landing Page Project Info](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+2. [The Finished Product! (pun most intended)](https://bravetheday.boutique/about.html)
