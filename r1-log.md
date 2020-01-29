@@ -148,4 +148,14 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 **Link(s) to Work**:
 1. [Technical Documentation Page Project Info](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
-2. [Finished Project](https://bravetheday.boutique/about.html)
+2. [Finished Project](https://codepen.io/dayvista/pen/QWwPeBv)
+
+
+### Day 27: January 29th, 2020
+
+**Today's Progress**: I made aesthetic adjustments to the Tech. Doc. project. Content was added to the body. I tried to figure out how to make a sticky nav-bar based solely off of CSS/HTML. It would work with a top-nav (I think), but it was too much work. Once I know Javascript, I'll be able to do it.
+
+**Thoughts**: I can get so wrapped up in non-essential problems. Part of learning how to code will be honing my discernment between necessary and frivolous bugs.
+
+**Link(s) to Work**:
+1. [Finished Technical Documentation Project](https://codepen.io/dayvista/pen/QWwPeBv)
