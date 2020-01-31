@@ -159,3 +159,14 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 **Link(s) to Work**:
 1. [Finished Technical Documentation Project](https://codepen.io/dayvista/pen/QWwPeBv)
+
+### Day 28: January 30th, 2020
+
+**Today's Progress**: I completed the Portfolio Webpage project, and thus earned the Responsive Web Design Certificate on FCC! I made considerable progress on the simple/minimalist design of my portfolio website. I figured out how to easily make a sticky nav (finally). The formatting and template of my portfolio website were created. I made a background animation in the welcome section that depicts curly-bracket birds flying into the horizon. :D
+
+**Thoughts**: I feel like I'm making great progress. I'm starting to really enjoy this. I have a huge lesson plan for tackling Javascript after I finish the basics of my portfolio website.
+
+**Link(s) to Work**:
+1. [Finished Portfolio Webpage Project](https://codepen.io/dayvista/pen/PowrNam)
+2. [Responsive Web Design Certificate](https://www.freecodecamp.org/certification/dayvista/responsive-web-design)
+3. [The Current Iteration of My Portfolio Website](https://dayvista.work)
