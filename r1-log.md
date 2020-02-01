@@ -170,3 +170,13 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 1. [Finished Portfolio Webpage Project](https://codepen.io/dayvista/pen/PowrNam)
 2. [Responsive Web Design Certificate](https://www.freecodecamp.org/certification/dayvista/responsive-web-design)
 3. [The Current Iteration of My Portfolio Website](https://dayvista.work)
+
+
+### Day 29: January 31st, 2020
+
+**Today's Progress**: I worked for around an hour on formatting the welcome landing screen of my portfolio website. Most of what I did was scrapped in the end, but I still learned a lot (mostly about how difficult it is to center elements in CSS).
+
+**Thoughts**: Portfolio website => Bootstrap Course + YouTube Videos => Javascript Course === PROFIT
+
+**Link(s) to Work**:
+3. [The Current Iteration of My Portfolio Website](https://dayvista.work)
