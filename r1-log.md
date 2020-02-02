@@ -179,4 +179,14 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Thoughts**: Portfolio website => Bootstrap Course + YouTube Videos => Javascript Course === PROFIT
 
 **Link(s) to Work**:
-3. [The Current Iteration of My Portfolio Website](https://dayvista.work)
+1. [The Current Iteration of My Portfolio Website](https://dayvista.work)
+
+
+### Day 30: February 1st, 2020
+
+**Today's Progress**: Watched Traversy Media's Udemy course on Vanilla Javascript. Worked on Basic Javascript problems on freeCodeCamp.
+
+**Thoughts**: It feels good to be diving into learning specifics about coding after working on projects for so long. I was beginning to feel really limited by pure HTML and CSS.
+
+**Link(s) to Work**:
+1. [Basic Javascript Portion of JS DS & Algo on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
