@@ -190,3 +190,14 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 **Link(s) to Work**:
 1. [Basic Javascript Portion of JS DS & Algo on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+
+
+### Day 31: February 2nd, 2020
+
+**Today's Progress**: Continued cranking away on Javascript challenges and lessons on both freeCodeCamp and Udemy (Traversy Media's Modern Javascript course).
+
+**Thoughts**: I didn't have much time to code today and that was a bummer. -.- I really love getting into that flow state where I can spend a couple hours focusing on a specific problem or problem set. On the upside, I really look forward to experimenting with my new RPi 4B!
+
+**Link(s) to Work**:
+1. [Basic Javascript Portion of JS DS & Algo on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+2. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
