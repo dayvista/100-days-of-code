@@ -201,3 +201,14 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Link(s) to Work**:
 1. [Basic Javascript Portion of JS DS & Algo on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
 2. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+
+
+### Day 32: February 3rd, 2020
+
+**Today's Progress**: I watched some more of Brad Traversy's Modern JS Udemy course and spent a couple hours on the Basic Javascript section of FCC.
+
+**Thoughts**: Even though I never finished CS50, I'm thankful that I took it. I would recommend to any beginning programmer that he learn the basics of computer science before delving into a desired aspect of programming (web development, etc.). Knowing about things like for loops and more has helped me get a grasp of basic Javascript, and I imagine I'll be able to grasp other languages more easily as well (than if I had just started my web development journey from scratch).
+
+**Link(s) to Work**:
+1. [Basic Javascript Portion of JS DS & Algo on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+2. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
