@@ -223,3 +223,13 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Link(s) to Work**:
 1. [Basic Javascript Portion of Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
 2. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+
+
+### Day 34: February 5th, 2020
+
+**Today's Progress**: I worked through the ES6 portion of Javascript challenges. I dreamt up another app idea to execute once I have a grasp of a full stack.
+
+**Thoughts**: Although my work hours have been cut back for the next two weeks, and that's moderately financially frustrating, I'm stoked to have many hours a day to devote to study and rejuvenation.
+
+**Link(s) to Work**:
+1. [Basic Javascript Portion of Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
