@@ -243,3 +243,13 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 **Link(s) to Work**:
 1. [Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+
+
+### Day 36: February 7th, 2020
+
+**Today's Progress**: I got wrecked by Basic Algorithm Scripting on FCC. I made some progress through the challenges, but it was very slow.
+
+**Thoughts**: The same is not true for algorithms. I can tell that, for both data structures and algorithms, learning them thoroughly is going to be a matter of repition.
+
+**Link(s) to Work**:
+1. [Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
