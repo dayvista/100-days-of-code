@@ -233,3 +233,13 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 **Link(s) to Work**:
 1. [Basic Javascript Portion of Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+
+
+### Day 35: February 6th, 2020
+
+**Today's Progress**: Kept working through the JS challenges on FCC. This time, I worked on Debugging and Data Structures.
+
+**Thoughts**: I actually have an affinity for DS. Hopefully the same is true for algorithms.
+
+**Link(s) to Work**:
+1. [Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
