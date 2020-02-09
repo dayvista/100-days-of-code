@@ -264,3 +264,14 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Link(s) to Work**:
 1. [Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 2. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+
+
+### Day 38: February 9th, 2020
+
+**Today's Progress**: I made it through the algorithm section on FCC. I began working on the Task List DOM practice project on Traversy Media's Udemy course.
+
+**Thoughts**: I'm so glad to be working on projects again. Just applying what I've learned to a project, even when I'm basically just coding along, enables me to see the relevance of the information I'm ingesting. Stoked about Traversy's 20 JS Projects Course
+
+**Link(s) to Work**:
+1. [Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+2. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
