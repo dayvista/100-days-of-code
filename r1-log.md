@@ -253,3 +253,14 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 **Link(s) to Work**:
 1. [Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+
+
+### Day 37: February 8th, 2020
+
+**Today's Progress**: I worked through some more algorithms on FCC. I began a DOM project on Traversy Media' Udemy course.
+
+**Thoughts**: I don't need to worry about having to Google answers to algorithm/data structure problems at this point in my learning journey. I'm supposed to piece together information from many sources into a cohesive whole, not reinvent the wheel. The best thing that I can do is break each problem into multiple sub-problems, find the answers to those problems on Google or SO, and write my own composite solution to the proto-problem without having to look up the solution.
+
+**Link(s) to Work**:
+1. [Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+2. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
