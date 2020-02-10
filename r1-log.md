@@ -201,6 +201,7 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Link(s) to Work**:
 1. [Basic Javascript Portion of JS DS & Algo on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
 2. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+3. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
 
 
 ### Day 32: February 3rd, 2020
@@ -212,6 +213,7 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Link(s) to Work**:
 1. [Basic Javascript Portion of JS DS & Algo on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
 2. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+3. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
 
 
 ### Day 33: February 4th, 2020
@@ -223,6 +225,7 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Link(s) to Work**:
 1. [Basic Javascript Portion of Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
 2. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+3. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
 
 
 ### Day 34: February 5th, 2020
@@ -233,6 +236,7 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 **Link(s) to Work**:
 1. [Basic Javascript Portion of Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+2. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
 
 
 ### Day 35: February 6th, 2020
@@ -243,6 +247,7 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 **Link(s) to Work**:
 1. [Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+2. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
 
 
 ### Day 36: February 7th, 2020
@@ -253,6 +258,7 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 **Link(s) to Work**:
 1. [Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+2. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
 
 
 ### Day 37: February 8th, 2020
@@ -264,14 +270,28 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Link(s) to Work**:
 1. [Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 2. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+3. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
 
 
 ### Day 38: February 9th, 2020
 
 **Today's Progress**: I made it through the algorithm section on FCC. I began working on the Task List DOM practice project on Traversy Media's Udemy course.
 
-**Thoughts**: I'm so glad to be working on projects again. Just applying what I've learned to a project, even when I'm basically just coding along, enables me to see the relevance of the information I'm ingesting. Stoked about Traversy's 20 JS Projects Course
+**Thoughts**: I'm so glad to be working on projects again. Just applying what I've learned to a project, even when I'm basically just coding along, enables me to see the relevance of the information I'm ingesting. Stoked about taking Traversy's 20 JS Projects Course next. Slow and steady wins the race.
 
 **Link(s) to Work**:
 1. [Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 2. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+3. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
+
+
+### Day 39: February 10th, 2020
+
+**Today's Progress**: Finished the OOP Javascript section of challenges on FCC. Completed the loan calculator project for the Modern Javascript course on Udemy.
+
+**Thoughts**: I've realized that I'm not stuck in tutorial hell, I'm just ingraining the fundamentals of programming in order to build my own projects. Once I do begin building my own projects, in a month or so, I'll be able to use these (essentially cut-and-paste) projects as reference for the minutia of my work.
+
+**Link(s) to Work**:
+1. [Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+2. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+3. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
