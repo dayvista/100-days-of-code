@@ -295,3 +295,15 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 1. [Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 2. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
 3. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
+
+
+### Day 40: February 11th, 2020
+
+**Today's Progress**: Completed another practice project for the Modern Javascript course on Udemy. This time, it was the number guesser game. I finally made it through the grueling Functional Programming section of challenges on FCC. I learned about filter, map, reduce, etc.
+
+**Thoughts**: Working through problems all day can be so grueling. It's reassuring to remember to stay the course, and that I'll be able to create my own stuff soon.
+
+**Link(s) to Work**:
+1. [Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+2. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+3. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
