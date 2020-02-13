@@ -307,3 +307,13 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 1. [Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 2. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
 3. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
+
+
+### Day 41: February 12th, 2020
+
+**Today's Progress**: I spent an hour working through 3 algorithm problems on FCC. I had just worked an 8-hour shift, so it was slow going. Almost to the projects, though. 0,0
+
+**Thoughts**: This is actually painful. My brain physically hurts. I'm done with thoughts.
+
+**Link(s) to Work**:
+1. [Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
