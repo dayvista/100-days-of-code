@@ -317,3 +317,13 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 **Link(s) to Work**:
 1. [Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+
+
+### Day 42: February 13th, 2020
+
+**Today's Progress**: I worked on algorithm problems on FCC for an hour.
+
+**Thoughts**: I'm feeling exhausted today, and it is yet another cloudy day outside. The juxtaposition between working jobs I hate and forcing myself to study something I love is really wearing on me.
+
+**Link(s) to Work**:
+1. [Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
