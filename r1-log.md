@@ -357,3 +357,13 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 **Link(s) to Work**:
 1. [Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+
+
+### Day 46: February 17th, 2020
+
+**Today's Progress**: I tried my hand at the last Javascript project on freeCodeCamp, which involves calculating the amount of change to return to a customer (if any at all). It is the most difficult problem yet.
+
+**Thoughts**: I'm so close. This has been a gauntlet. Nay... a crucible!
+
+**Link(s) to Work**:
+1. [Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
