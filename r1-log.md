@@ -347,3 +347,13 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 **Link(s) to Work**:
 1. [Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+
+
+### Day 45: February 16th, 2020
+
+**Today's Progress**: I nearly made it through all of the Javascript algorithm project problems over the course of 6 or so hours. I mainly practiced recursion, regex, and specific methods that my brain is too fried to remember.
+
+**Thoughts**: I find it kind of bothersome that memorizing the intricacies of algorithms, data structures, and Javascript in general is redundant except when interviewing for a job. In real life, I just look this stuff up when I need to know it. Regardless, if it gets me a job, that must mean that it's not pointless!
+
+**Link(s) to Work**:
+1. [Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
