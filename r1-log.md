@@ -367,3 +367,17 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 **Link(s) to Work**:
 1. [Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+
+
+### Day 47: February 18th, 2020
+
+**Today's Progress**: I finished the Javascript Algorithms & Data Structures certificate requirements on freeCodeCamp! I also worked on the Vanilla Javascript Udemy course and tried my hand at a little Bootstrap.
+
+**Thoughts**: I'm so happy to be moving onto more functional and project-based learning.
+
+**Link(s) to Work**:
+1. [Javascript Data Structures & Algorithms on FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+2. [Introduction to Bootstrap on FCC](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap/)
+3. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+4. [Traversy Media's Bootstrap 4 Course on Udemy](https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/)
+5. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
