@@ -381,3 +381,14 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 3. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
 4. [Traversy Media's Bootstrap 4 Course on Udemy](https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/)
 5. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
+
+
+### Day 48: February 19th, 2020
+
+**Today's Progress**: I spent some more time working on the Book List OOP project for Traversy Media's Javascript course. I finished it by adding local storage and UI refinement to the app.
+
+**Thoughts**: It's good to be building a base of tutorials that I can reference once I face similar obstacles in projects of my own. I'm looking forward to attending Hack Connecticut tomorrow night.
+
+**Link(s) to Work**:
+1. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+2. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
