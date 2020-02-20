@@ -392,3 +392,14 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Link(s) to Work**:
 1. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
 2. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
+
+
+### Day 49: February 20th, 2020
+
+**Today's Progress**: I learned about AJAX, Async, and REST APIs by coding my own basic HTTP requests in JavaScript
+
+**Thoughts**: Working with APIs is a blast!
+
+**Link(s) to Work**:
+1. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+2. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
