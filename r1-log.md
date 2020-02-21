@@ -396,9 +396,20 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 ### Day 49: February 20th, 2020
 
-**Today's Progress**: I learned about AJAX, Async, and REST APIs by coding my own basic HTTP requests in JavaScript
+**Today's Progress**: I learned about AJAX, Async, and REST APIs by coding my own basic HTTP requests in JavaScript.
 
 **Thoughts**: Working with APIs is a blast!
+
+**Link(s) to Work**:
+1. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+2. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
+
+
+### Day 50: February 21st, 2020
+
+**Today's Progress**: I built a custom HTTP library, learning about the different ways to make requests/callbacks/promises using async/await and ES5/ES6/ES7 syntaxes.
+
+**Thoughts**: I'm really enjoying working with the HTTP request syntax (PUT, POST, etc.).
 
 **Link(s) to Work**:
 1. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
