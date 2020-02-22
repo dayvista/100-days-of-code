@@ -414,3 +414,14 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Link(s) to Work**:
 1. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
 2. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
+
+
+### Day 51: February 22nd, 2020
+
+**Today's Progress**: I worked with API calls by building a simple GitHub user requester app in JavaScript.
+
+**Thoughts**: I will definitely be able to use this information/project layout in future projects.
+
+**Link(s) to Work**:
+1. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+2. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
