@@ -425,3 +425,14 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Link(s) to Work**:
 1. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
 2. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
+
+
+### Day 52: February 23rd, 2020
+
+**Today's Progress**: I coded along with a JavaScript weather app tutorial. The API that the tutorial used is deprecated, so I had to port it over to the free and open-source Weatherstack API. I'm not yet finished with figuring out how to make the app function with a different API.
+
+**Thoughts**: I'm enjoying the challenge of straying from the tutorial parameters to try to implement a different API.
+
+**Link(s) to Work**:
+1. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+2. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
