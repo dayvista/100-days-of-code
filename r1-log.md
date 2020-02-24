@@ -436,3 +436,14 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Link(s) to Work**:
 1. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
 2. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
+
+
+### Day 53: February 24th, 2020
+
+**Today's Progress**: The app was modified in order to make it work with the Weatherstack API. I also fixed a bug where the app wasn't loading a default location whenever the page was loaded for the first time.
+
+**Thoughts**: Squashing bugs === fun
+
+**Link(s) to Work**:
+1. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+2. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
