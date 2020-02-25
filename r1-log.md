@@ -447,3 +447,13 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Link(s) to Work**:
 1. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
 2. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
+
+
+### Day 54: February 25th, 2020
+
+**Today's Progress**: I studied Bootstrap and jQuery for about an hour on freeCodeCamp.
+
+**Thoughts**: Both concepts came very easily after studying pure CSS and JavaScript for a couple months.
+
+**Link(s) to Work**:
+1. [Front-End Libraries Certification Challenges on freeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap/)
