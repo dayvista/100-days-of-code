@@ -457,3 +457,15 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 **Link(s) to Work**:
 1. [Front-End Libraries Certification Challenges on freeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap/)
+
+
+### Day 55: February 26th, 2020
+
+**Today's Progress**: I studied Sass on freeCodeCamp. I also completed a small JavaScript project that involved practicing regular expressions by creating a form validator app.
+
+**Thoughts**: Sass is pretty crazy. It basically turns CSS into an actual programming language, akin to JavaScript.
+
+**Link(s) to Work**:
+1. [Front-End Libraries Certification Challenges on freeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap/)
+2. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+3. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
