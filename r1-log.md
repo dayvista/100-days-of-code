@@ -469,3 +469,13 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 1. [Front-End Libraries Certification Challenges on freeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap/)
 2. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
 3. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
+
+
+### Day 56: February 27th, 2020
+
+**Today's Progress**: I practiced Bootstrap 4 by working on my portfolio website for a couple of hours.
+
+**Thoughts**: Bootstrap is great for ease of use, but I find it very restrictive when trying to implement specific ideas. Perhaps I just need more practice with it.
+
+**Link(s) to Work**:
+1. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
