@@ -479,3 +479,13 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 **Link(s) to Work**:
 1. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
+
+
+### Day 57: February 28th, 2020
+
+**Today's Progress**: I decided to join the Lambda School bootcamp in order to accelerate the process of finding work in this industry. I spent a couple hours working through their pre-course work. It was very simple (basic HTML and CSS).
+
+**Thoughts**: I'm glad I've done so much studying on my own. I feel very prepared to both go over old material and learn new methods and technologies. I still plan to work through Udemy courses and freeCodeCamp on the side.
+
+**Link(s) to Work**:
+1. [Lambda School Website](https://lambdaschool.com/)
