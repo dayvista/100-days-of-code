@@ -489,3 +489,15 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 **Link(s) to Work**:
 1. [Lambda School Website](https://lambdaschool.com/)
+
+
+### Day 58: February 29th, 2020
+
+**Today's Progress**: I worked through some more of the Lambda School pre-course. I also completed a practice project in the Modern JavaScript Udemy course.
+
+**Thoughts**: Coding for 45 hours a week for 9 months (in Lambda School, starting April 6th) will be intense, but the reward will be so worth it. I just have to stay disciplined and take care of my being in the process.
+
+**Link(s) to Work**:
+1. [Lambda School Website](https://lambdaschool.com/)
+2. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+3. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
