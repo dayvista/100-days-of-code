@@ -500,4 +500,16 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Link(s) to Work**:
 1. [Lambda School Website](https://lambdaschool.com/)
 2. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
-3. [My Github, Containing Finished Project Files and More](https://github.com/dayvista)
+3. [My Github, Containing Finished (and In-Progress) Project Files and More](https://github.com/dayvista)
+
+
+### Day 59: March 1st, 2020
+
+**Today's Progress**: I practiced the Module pattern and general app-building in JavaScript. I also completed another pre-course assessment module on Lambda.
+
+**Thoughts**: I definitely feel like I'm in tutorial hell right now, but at the same time, it feels good to practice the fundamentals and basic structure of web apps. I can see the progress I've made when taking the Lambda assessment lessons. I finish each one in around 5 minutes.
+
+**Link(s) to Work**:
+1. [Lambda School Website](https://lambdaschool.com/)
+2. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+3. [My Github, Containing Finished (and In-Progress) Project Files and More](https://github.com/dayvista)
