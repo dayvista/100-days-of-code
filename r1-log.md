@@ -513,3 +513,15 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 1. [Lambda School Website](https://lambdaschool.com/)
 2. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
 3. [My Github, Containing Finished (and In-Progress) Project Files and More](https://github.com/dayvista)
+
+
+### Day 60: March 2nd, 2020
+
+**Today's Progress**: Completed another module on Lambda. I also finished the JavaScript calorie tracker project on Udemy.
+
+**Thoughts**: Having to write 500 lines of code in a single app.js file to complete an application really makes me look forward to learning React and how to use compilers (Babel, WebPack, etc.).
+
+**Link(s) to Work**:
+1. [Lambda School Website](https://lambdaschool.com/)
+2. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+3. [My Github, Containing Finished (and In-Progress) Project Files and More](https://github.com/dayvista)
