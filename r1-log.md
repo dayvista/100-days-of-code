@@ -525,3 +525,15 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 1. [Lambda School Website](https://lambdaschool.com/)
 2. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
 3. [My Github, Containing Finished (and In-Progress) Project Files and More](https://github.com/dayvista)
+
+
+### Day 61: March 3rd, 2020
+
+**Today's Progress**: I completed another Lambda School pre-course module. More importantly, I practiced working with REST APIs by making a micro-Twitter clone that ran from a JSON live server on the back-end. The project also helped me practicing OOP, modules, constructors, and beyond.
+
+**Thoughts**: I love working with REST APIs and JSON/data structures in general. The whole process really comes naturally to me.
+
+**Link(s) to Work**:
+1. [Lambda School Website](https://lambdaschool.com/)
+2. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+3. [My Github, Containing Finished (and In-Progress) Project Files and More](https://github.com/dayvista)
