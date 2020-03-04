@@ -537,3 +537,15 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 1. [Lambda School Website](https://lambdaschool.com/)
 2. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
 3. [My Github, Containing Finished (and In-Progress) Project Files and More](https://github.com/dayvista)
+
+
+### Day 62: March 4th, 2020
+
+**Today's Progress**: I did a little more Lambda School pre-course work. I'm almost finished with it now. I finished the Twitter Clone project by adding update and delete functionality to the UI.
+
+**Thoughts**: I'm feeling skeptical about attending Lambda School because of the bugginess of their pre-course work. However, I'll be attending to make connections in the industry, not to necessarily teach myself. I'll wait and see how this plays out. On the positive side, I just finished Brad Traversy's Modern JavaScript course on Udemy! Huzzah!
+
+**Link(s) to Work**:
+1. [Lambda School Website](https://lambdaschool.com/)
+2. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+3. [My Github, Containing Finished (and In-Progress) Project Files and More](https://github.com/dayvista)
