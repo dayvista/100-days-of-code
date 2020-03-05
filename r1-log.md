@@ -549,3 +549,14 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 1. [Lambda School Website](https://lambdaschool.com/)
 2. [Traversy Media's Modern Javascript Course on Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
 3. [My Github, Containing Finished (and In-Progress) Project Files and More](https://github.com/dayvista)
+
+
+### Day 63: March 5th, 2020
+
+**Today's Progress**: I studied and practiced with React via Traversy Media's React Front to Back course on Udemy. I learned mainly about props and state.
+
+**Thoughts**: There's still a a long way to go!
+
+**Link(s) to Work**:
+1. [Traversy Media's React Front to Back Course on Udemy](https://www.udemy.com/course/modern-react-front-to-back/)
+2. [My Github, Containing Finished (and In-Progress) Project Files and More](https://github.com/dayvista)
