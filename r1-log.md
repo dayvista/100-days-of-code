@@ -560,3 +560,13 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Link(s) to Work**:
 1. [Traversy Media's React Front to Back Course on Udemy](https://www.udemy.com/course/modern-react-front-to-back/)
 2. [My Github, Containing Finished (and In-Progress) Project Files and More](https://github.com/dayvista)
+
+
+### Day 64: March 6th, 2020
+
+**Today's Progress**: I spent the day working through freeCodeCamp's React challenge section. I worked with .this and setState, declaring methods, and many other intricacies of the React library.
+
+**Thoughts**: React totally blew my mind. I get why it is (or libraries and frameworks in general are) the go-to for web app builders across the world.
+
+**Link(s) to Work**:
+1. [Front-End Libraries React Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/react/)
