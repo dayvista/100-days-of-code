@@ -570,3 +570,15 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 **Link(s) to Work**:
 1. [Front-End Libraries React Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/react/)
+
+
+### Day 65: March 7th, 2020
+
+**Today's Progress**: I finished the pure React challenges/lessons on freeCodeCamp. I continued working on the GitHub API React app.
+
+**Thoughts**: I really enjoy working with React. It seems to be much simpler than I anticipated. I wonder how building my own apps or using it in the workplace will compare.
+
+**Link(s) to Work**:
+1. [Front-End Libraries React Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/react/)
+2. [Traversy Media's React Front to Back Course on Udemy](https://www.udemy.com/course/modern-react-front-to-back/)
+3. [My Github, Containing Finished (and In-Progress) Project Files and More](https://github.com/dayvista)
