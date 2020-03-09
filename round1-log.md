@@ -582,3 +582,14 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 1. [Front-End Libraries React Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/react/)
 2. [Traversy Media's React Front to Back Course on Udemy](https://www.udemy.com/course/modern-react-front-to-back/)
 3. [My Github, Containing Finished (and In-Progress) Project Files and More](https://github.com/dayvista)
+
+
+### Day 66: March 8th, 2020
+
+**Today's Progress**: I worked through some algorithm problems on Hacker Rank just for fun. I also made it through all of the lesson-challenges of the Redux section on freeCodeCamp.
+
+**Thoughts**: Redux is also very simple once one learns it's intricacies through repetition. I'm looking forward to using it in the React course I'm taking on Udemy. Also, Hacker Rank is actually fun! I never thought I was one for enjoying puzzles and brain-teasers.
+
+**Link(s) to Work**:
+1. [Front-End Libraries Redux Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/redux/)
+2. [My Profile on HackerRank](https://www.hackerrank.com/dayvista)
