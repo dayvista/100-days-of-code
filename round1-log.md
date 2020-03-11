@@ -617,3 +617,14 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 1. [My Profile on HackerRank](https://www.hackerrank.com/dayvista)
 2. [Traversy Media's React Front to Back Course on Udemy](https://www.udemy.com/course/modern-react-front-to-back/)
 3. [My Github, Containing Finished and In-Progress Project Files (and More)](https://github.com/dayvista)
+
+
+### Day 69: March 11th, 2020
+
+**Today's Progress**: I learned about and practiced React Hooks for a smidge.
+
+**Thoughts**: Tomorrow, I want to get around to beginning to make the random quote machine project for freeCodeCamp.
+
+**Link(s) to Work**:
+1. [Traversy Media's React Front to Back Course on Udemy](https://www.udemy.com/course/modern-react-front-to-back/)
+2. [My Github, Containing Finished and In-Progress Project Files (and More)](https://github.com/dayvista)
