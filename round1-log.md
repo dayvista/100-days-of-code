@@ -628,3 +628,15 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Link(s) to Work**:
 1. [Traversy Media's React Front to Back Course on Udemy](https://www.udemy.com/course/modern-react-front-to-back/)
 2. [My Github, Containing Finished and In-Progress Project Files (and More)](https://github.com/dayvista)
+
+
+### Day 70: March 12th, 2020
+
+**Today's Progress**: I kept studying React Hooks, this time also practicing Context. I worked through a HackerRank problem as well.
+
+**Thoughts**: I'm glad that I'm going over React (and possibly Node) before Lambda School begins. In general, having a working knowledge of these concepts will help me handle the work load and focus on learning how to work with an agile team.
+
+**Link(s) to Work**:
+1. [Traversy Media's React Front to Back Course on Udemy](https://www.udemy.com/course/modern-react-front-to-back/)
+2. [My Github, Containing Finished and In-Progress Project Files (and More)](https://github.com/dayvista)
+3. [My Profile on HackerRank](https://www.hackerrank.com/dayvista)
