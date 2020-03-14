@@ -652,3 +652,14 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 1. [Traversy Media's React Front to Back Course on Udemy](https://www.udemy.com/course/modern-react-front-to-back/)
 2. [My Github, Containing Finished and In-Progress Project Files (and More)](https://github.com/dayvista)
 3. [Front-End Libraries Projects Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
+
+
+### Day 72: March 14th, 2020
+
+**Today's Progress**: I worked on the random quote generator. I implemented the barebones structure with react-bootstrap and context.
+
+**Thoughts**: Tomorrow, I'll add in the axios/JS functionality where the app actually makes and displays API calls.
+
+**Link(s) to Work**:
+1. [Front-End Libraries Projects Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
+2. [My Github, Containing Finished and In-Progress Project Files (and More)](https://github.com/dayvista)
