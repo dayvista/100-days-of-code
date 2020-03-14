@@ -640,3 +640,15 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 1. [Traversy Media's React Front to Back Course on Udemy](https://www.udemy.com/course/modern-react-front-to-back/)
 2. [My Github, Containing Finished and In-Progress Project Files (and More)](https://github.com/dayvista)
 3. [My Profile on HackerRank](https://www.hackerrank.com/dayvista)
+
+
+### Day 71: March 13th, 2020
+
+**Today's Progress**: I finished the React Hooks/Context project. I started another React project for freeCodeCamp (a random quote generator) to further reinforce what I've learned.
+
+**Thoughts**: I totally get React, but it's going to take a lot of practice to get the syntax down. I look forward to unlocking it's potential. Happy birthday Mom!
+
+**Link(s) to Work**:
+1. [Traversy Media's React Front to Back Course on Udemy](https://www.udemy.com/course/modern-react-front-to-back/)
+2. [My Github, Containing Finished and In-Progress Project Files (and More)](https://github.com/dayvista)
+3. [Front-End Libraries Projects Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
