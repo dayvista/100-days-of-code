@@ -677,3 +677,15 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 1. [Front-End Libraries Projects Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
 2. [Kanye West Quote Generator](https://kanyewestquotegenerator.netlify.com)
 3. [My Github, Containing Finished and In-Progress Project Files (and More)](https://github.com/dayvista)
+
+### Day 74: March 16th, 2020
+
+**Today's Progress**: I made the quote generator website more responsive. I also began working on (and studying how to even start doing) the Markdown Previewer project.
+
+**Thoughts**: I need to learn more SASS and JQuery STAT!
+
+**Link(s) to Work**:
+
+1. [Front-End Libraries Projects Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
+2. [Kanye West Quote Generator](https://kanyewestquotegenerator.netlify.com)
+3. [My Github, Containing Finished and In-Progress Project Files (and More)](https://github.com/dayvista)
