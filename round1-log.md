@@ -701,3 +701,17 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 1. [Front-End Libraries Projects Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
 2. [Markdown Previewer App](https://markdownpreviewerapp.netlify.com)
 3. [My Github, Containing Finished and In-Progress Project Files (and More)](https://github.com/dayvista)
+
+### Day 76: March 18th, 2020
+
+**Today's Progress**: I created my own React App boilerplate template with Webpack and Babel. I added CSS and SASS compilers to it. Also, I contributed to 2 simple open source projects that are designed for beginners to practice pull requests. Furthermore, I began work on the drum machine project for freeCodeCamp.
+
+**Thoughts**: I wish I had more time in the day to work on this stuff. It's really engaging.
+
+**Link(s) to Work**:
+
+1. [Front-End Libraries Projects Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
+2. [My Github, Containing Finished and In-Progress Project Files (and More)](https://github.com/dayvista)
+3. [React App Boilerplate Repo](https://github.com/dayvista/reactappboilerplate)
+4. [My Rebus Pull Request](https://github.com/ollelauribostrom/rebus/pull/457)
+5. [My Contribute-To-This-Project Pull Request](https://github.com/Syknapse/Contribute-To-This-Project/pull/360)
