@@ -689,3 +689,15 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 1. [Front-End Libraries Projects Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
 2. [Kanye West Quote Generator](https://kanyewestquotegenerator.netlify.com)
 3. [My Github, Containing Finished and In-Progress Project Files (and More)](https://github.com/dayvista)
+
+### Day 75: March 17th, 2020
+
+**Today's Progress**: I finished the Markdown Previewer app for freeCodeCamp. I simplified it a lot by removing components and centralizing it in the App.js. I know it's not good practice to do that, but it saved a lot of time.
+
+**Thoughts**: Simple is good. Perhaps in the future, I'll go back and refactor the app to include components and perhaps Hooks and/or Context (just for practice).
+
+**Link(s) to Work**:
+
+1. [Front-End Libraries Projects Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
+2. [Markdown Previewer App](https://markdownpreviewerapp.netlify.com)
+3. [My Github, Containing Finished and In-Progress Project Files (and More)](https://github.com/dayvista)
