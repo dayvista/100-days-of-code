@@ -715,3 +715,14 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 3. [React App Boilerplate Repo](https://github.com/dayvista/reactappboilerplate)
 4. [My Rebus Pull Request](https://github.com/ollelauribostrom/rebus/pull/457)
 5. [My Contribute-To-This-Project Pull Request](https://github.com/Syknapse/Contribute-To-This-Project/pull/360)
+
+### Day 77: March 19th, 2020
+
+**Today's Progress**: I worked on the drum machine project for FCC all day. I managed to make each button produce a correlated sound when it is clicked. I have yet to figure out how to implement key-press functionality.
+
+**Thoughts**: That was exhausting. I'll work on the rest of the functionality and the aesthetics of the UI tomorrow.
+
+**Link(s) to Work**:
+
+1. [Front-End Libraries Projects Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
+2. [My Github, Containing Finished and In-Progress Project Files (and More)](https://github.com/dayvista)
