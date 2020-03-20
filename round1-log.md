@@ -726,3 +726,15 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 1. [Front-End Libraries Projects Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
 2. [My Github, Containing Finished and In-Progress Project Files (and More)](https://github.com/dayvista)
+
+### Day 78: March 20th, 2020
+
+**Today's Progress**: I remade the drum machine app to be simpler (less switches, more state). I was able to finish the logic/functionality aspect of it. I still have to work on the UI and expanding beyond basic functionality. I also need to make the app responsive.
+
+**Thoughts**: That was so difficult, but I learned a lot about how React (particularly state and props) work!
+
+**Link(s) to Work**:
+
+1. [Front-End Libraries Projects Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
+2. [My Github, Containing Finished and In-Progress Project Files (and More)](https://github.com/dayvista)
+3. [Basic Drum Machine App on Netlify](https://basicdrummachine.netlify.com/)
