@@ -738,3 +738,15 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 1. [Front-End Libraries Projects Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
 2. [My Github, Containing Finished and In-Progress Project Files (and More)](https://github.com/dayvista)
 3. [Basic Drum Machine App on Netlify](https://basicdrummachine.netlify.com/)
+
+### Day 79: March 21st, 2020
+
+**Today's Progress**: I refined and expanded the React Boilerplate template to be much more useful. I began working on the JavaScript calculator app for FCC. I made the base HTML markup and React component templates.
+
+**Thoughts**: I can't wait to get started on my portfolio website! I've learned so much since I last worked on it in January. I have a great idea for it.
+
+**Link(s) to Work**:
+
+1. [Front-End Libraries Projects Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
+2. [My Github, Containing Finished and In-Progress Project Files (and More)](https://github.com/dayvista)
+3. [React App Boilerplate Repo on GitHub](https://github.com/dayvista/reactappboilerplate)
