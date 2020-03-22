@@ -750,3 +750,14 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 1. [Front-End Libraries Projects Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
 2. [My Github, Containing Finished and In-Progress Project Files (and More)](https://github.com/dayvista)
 3. [React App Boilerplate Repo on GitHub](https://github.com/dayvista/reactappboilerplate)
+
+### Day 80: March 22nd, 2020
+
+**Today's Progress**: I worked through the learnyounode section on NodeSchool.io as part of the NERD Summit remote Hackathon. I completed 6 of the 13 lessons.
+
+**Thoughts**: I didn't expect to begin learning Node so soon! Node and React (Node especially) don't seem as daunting when I have experience with other stricter/more classic or low-level programming languages such as C.
+
+**Link(s) to Work**:
+
+1. [NERD Summit Hackathon Website](https://nerdsummit.org/virtual.html#virtual-hackathon)
+2. [My Work on the NodeSchool learnyounode Curriculum](https://github.com/dayvista/nodeschool-learnyounode)
