@@ -761,3 +761,14 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 1. [NERD Summit Hackathon Website](https://nerdsummit.org/virtual.html#virtual-hackathon)
 2. [My Work on the NodeSchool learnyounode Curriculum](https://github.com/dayvista/nodeschool-learnyounode)
+
+### Day 81: March 23rd, 2020
+
+**Today's Progress**: I worked on the calculator app for freeCodeCamp. I finished the CSS portion and began work on the JS/React side of things.
+
+**Thoughts**: I need to work on actual programming (JavaScript, etc.) earlier in the day because I find it very difficult to work out the logic when I'm tired.
+
+**Link(s) to Work**:
+
+1. [Front-End Libraries Projects Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
+2. [My Github, Containing Finished and In-Progress Project Files (and More)](https://github.com/dayvista)
