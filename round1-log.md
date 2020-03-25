@@ -783,3 +783,14 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 1. [Front-End Libraries Projects Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
 2. [My Github, Containing Finished and In-Progress Project Files (and More)](https://github.com/dayvista)
+
+### Day 83: March 25th, 2020
+
+**Today's Progress**: I spent five hours working on the calculator app only to learn exactly what not to do. I'll implement what I believe to be the solution tomorrow.
+
+**Thoughts**: Failure is actually a great teacher. I'm learning a lot about the flow of React and JavaScript's 'this' by running around in circles.
+
+**Link(s) to Work**:
+
+1. [Front-End Libraries Projects Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
+2. [My Github, Containing Finished and In-Progress Project Files (and More)](https://github.com/dayvista)
