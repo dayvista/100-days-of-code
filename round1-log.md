@@ -805,3 +805,15 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 1. [Front-End Libraries Projects Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
 2. [My Github, Containing Finished and In-Progress Project Files (and More)](https://github.com/dayvista)
+
+### Day 85: March 27th, 2020
+
+**Today's Progress**: I finished the calculator app in React. I figured out the logic pertaining to the use of operators. I also realized that the bug I was facing was simply trying to perform string operations on a number variable.
+
+**Thoughts**: It felt so relieving to finally finish that.
+
+**Link(s) to Work**:
+
+1. [Front-End Libraries Projects Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
+2. [My Github, Containing Finished and In-Progress Project Files (and More)](https://github.com/dayvista)
+3. [The Finished Calculator Project](https://calc-u-now.netlify.com)
