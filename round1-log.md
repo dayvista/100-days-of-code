@@ -817,3 +817,18 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 1. [Front-End Libraries Projects Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
 2. [My Github, Containing Finished and In-Progress Project Files (and More)](https://github.com/dayvista)
 3. [The Finished Calculator Project](https://calc-u-now.netlify.com)
+
+### Day 86: March 28th, 2020
+
+**Today's Progress**: I worked on cleaning up and reformatting my React freeCodeCamp projects.
+
+**Thoughts**: Spring cleaning time! Tomorrow, I start the pomodoro timer project.
+
+**Link(s) to Work**:
+
+1. [Front-End Libraries Projects Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
+2. [My Github, Containing Finished and In-Progress Project Files (and More)](https://github.com/dayvista)
+3. [The Finished Calculator Project](https://calc-u-now.netlify.com)
+4. [The Random Quote Generator Project](https://kanyewestquotegenerator.netlify.com)
+5. [Markdown Previewer Project](https://markdownpreviewerapp.netlify.com)
+6. [Drum Machine Project](https://basicdrummachine.netlify.com)
