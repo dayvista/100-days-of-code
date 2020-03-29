@@ -832,3 +832,14 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 4. [The Random Quote Generator Project](https://kanyewestquotegenerator.netlify.com)
 5. [Markdown Previewer Project](https://markdownpreviewerapp.netlify.com)
 6. [Drum Machine Project](https://basicdrummachine.netlify.com)
+
+### Day 87: March 29th, 2020
+
+**Today's Progress**: I began working on the pomodoro timer app for freeCodeCamp. I made the base CSS/JS logic layer and began working on the actual codebase pertaining to the timer functionality.
+
+**Thoughts**: It's a lot of work, but I'm beginning to get a feel for React and use it more intuitively. It's crazy how far I've come since last November when I first started studying programming and coding.
+
+**Link(s) to Work**:
+
+1. [Front-End Libraries Projects Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
+2. [My Github, Containing Finished and In-Progress Project Files](https://github.com/dayvista)
