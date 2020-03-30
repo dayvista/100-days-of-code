@@ -843,3 +843,15 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 1. [Front-End Libraries Projects Section on FCC](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
 2. [My Github, Containing Finished and In-Progress Project Files](https://github.com/dayvista)
+
+### Day 88: March 30th, 2020
+
+**Today's Progress**: I finished the pomodoro app! I worked out the bugs with 'autoplay' and made it more responsive (besides figuring out the overall logic structure and flow).
+
+**Thoughts**: I freaking did it. Onto rebuilding my portfolio (and starting Lambda school in 2 days)!
+
+**Link(s) to Work**:
+
+1. [My 'Front End Libraries' Certificate on freeCodeCamp!](https://www.freecodecamp.org/certification/dayvista/front-end-libraries)
+2. [My Github, Containing Finished and In-Progress Project Files](https://github.com/dayvista)
+3. [Finished Pomodoro Timer Project](https://pomoductivity.netlify.com)
