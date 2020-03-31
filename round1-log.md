@@ -855,3 +855,13 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 1. [My 'Front End Libraries' Certificate on freeCodeCamp!](https://www.freecodecamp.org/certification/dayvista/front-end-libraries)
 2. [My Github, Containing Finished and In-Progress Project Files](https://github.com/dayvista)
 3. [Finished Pomodoro Timer Project](https://pomoductivity.netlify.com)
+
+### Day 89: March 31st, 2020
+
+**Today's Progress**: I started learning Gatsby.js and brainstorming portfolio ideas. I plan to make my portfolio website out of Gatsby.js.
+
+**Thoughts**: I can't believe I start Lambda School tomorrow! Time sure flew by. Hopefully, it's not too long before I land a job in software development.
+
+**Link(s) to Work**:
+
+1. [My Github, Containing Finished and In-Progress Project Files](https://github.com/dayvista)
