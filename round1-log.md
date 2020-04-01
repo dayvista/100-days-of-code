@@ -865,3 +865,13 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Link(s) to Work**:
 
 1. [My Github, Containing Finished and In-Progress Project Files](https://github.com/dayvista)
+
+### Day 90: April 1st, 2020
+
+**Today's Progress**: After Lambda School orientation finished, I worked through some data visualization challenges on freeCodeCamp.
+
+**Thoughts**: I can feel the doors of opportunity opening in my future as I continue investing tons of time and energy into learning web development. The awesomeness is growing...
+
+**Link(s) to Work**:
+
+1. [Data Visualization with D3.js Challenges on freeCodeCamp](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/)
