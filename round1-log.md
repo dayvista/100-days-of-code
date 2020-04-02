@@ -874,4 +874,14 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 **Link(s) to Work**:
 
-1. [Data Visualization with D3.js Challenges on freeCodeCamp](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/)
+1. [Data Visualization (with D3.js) Challenges on freeCodeCamp](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/)
+
+### Day 91: April 2nd, 2020
+
+**Today's Progress**: I continued Lambda School orientation. Still no coding in that department, so I kept on working through data visualization challenges on freeCodeCamp.
+
+**Thoughts**: Time for a nap!
+
+**Link(s) to Work**:
+
+1. [Data Visualization (with D3.js) Challenges on freeCodeCamp](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/)
