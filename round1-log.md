@@ -885,3 +885,25 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Link(s) to Work**:
 
 1. [Data Visualization (with D3.js) Challenges on freeCodeCamp](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/)
+
+### Day 92: April 3rd, 2020
+
+**Today's Progress**: I finished Lambda School orientation. Class starts Monday! As for actual coding, I worked on my portfolio website. I implemented primarily HTML and CSS.
+
+**Thoughts**: It's coming together!
+
+**Link(s) to Work**:
+
+1. [My Github, Containing Finished and In-Progress Project Files](https://github.com/dayvista)
+2. [My Portfolio Website](https://dayvista.dev)
+
+### Day 93: April 4th, 2020
+
+**Today's Progress**: I continued working on my portfolio website. I worked on the CSS animations and transitions in-depth.
+
+**Thoughts**: Animations/transitions are a blast.
+
+**Link(s) to Work**:
+
+1. [My Github, Containing Finished and In-Progress Project Files](https://github.com/dayvista)
+2. [My Portfolio Website](https://dayvista.dev)
