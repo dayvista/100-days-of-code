@@ -907,3 +907,24 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 1. [My Github, Containing Finished and In-Progress Project Files](https://github.com/dayvista)
 2. [My Portfolio Website](https://dayvista.dev)
+
+### Day 94: April 5th, 2020
+
+**Today's Progress**: I worked on my portfolio for a couple hours. I also started learning React Hooks, Context, and the Ionic PWA Framework in order to build an app from an idea I had.
+
+**Thoughts**: Gotta manifest those dreams!
+
+**Link(s) to Work**:
+
+1. [My Github, Containing Finished and In-Progress Project Files](https://github.com/dayvista)
+2. [My Portfolio Website](https://dayvista.dev)
+
+### Day 95: April 6th, 2020
+
+**Today's Progress**: I kept studying Hooks, Context, and Ionic. I partially refactored my drum machine React App from a class based app to a functional one.
+
+**Thoughts**: Now that I'm beginning to understand Hooks/Context vs class-based React, I understand why the former is much better.
+
+**Link(s) to Work**:
+
+1. [My Github, Containing Finished and In-Progress Project Files](https://github.com/dayvista)
