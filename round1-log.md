@@ -928,3 +928,24 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Link(s) to Work**:
 
 1. [My Github, Containing Finished and In-Progress Project Files](https://github.com/dayvista)
+
+### Day 96: April 7th, 2020
+
+**Today's Progress**: Spent more time learning Hooks and Context in React. Figured out how to fix a bug and completed refactoring my previously class-based app.
+
+**Thoughts**: Hooks are actually to get the hang of once you understand how to convert class-based apps to fucntional ones. As for Context, I need more practice to fully get it.
+
+**Link(s) to Work**:
+
+1. [My Github, Containing Finished and In-Progress Project Files](https://github.com/dayvista)
+2. [Now Refactored Drum Machine App in React w/ Hooks & Context](https://basicdrummachine.netlify.com/)
+
+### Day 97: April 8th, 2020
+
+**Today's Progress**: I began studying the Ionic framework and practicing with it in relation to React. I installed and began working with it's CLI.
+
+**Thoughts**: I'm excited to get started with this new technology! It seems extermely easy to work with, with a streamlined workflow.
+
+**Link(s) to Work**:
+
+1. [My Github, Containing Finished and In-Progress Project Files](https://github.com/dayvista)
