@@ -949,3 +949,24 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 **Link(s) to Work**:
 
 1. [My Github, Containing Finished and In-Progress Project Files](https://github.com/dayvista)
+
+### Day 98: April 9th, 2020
+
+**Today's Progress**: Studied React Router and practiced with it a little bit.
+
+**Thoughts**: I can see myself using Router frequently in the future.
+
+**Link(s) to Work**:
+
+1. [My Github, Containing Finished and In-Progress Project Files](https://github.com/dayvista)
+
+### Day 99: April 10th, 2020
+
+**Today's Progress**: Put in a good couple of hours on my portfolio website. Studied Flexbox and SVG animations.
+
+**Thoughts**: It's coming together for real now!
+
+**Link(s) to Work**:
+
+1. [My Github, Containing Finished and In-Progress Project Files](https://github.com/dayvista)
+2. [My Portfolio Website](https://dayvista.dev)
