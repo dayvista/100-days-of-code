@@ -970,3 +970,14 @@ The log of my #100DaysOfCode challenge. Started on [Friday, January 3rd, 2020].
 
 1. [My Github, Containing Finished and In-Progress Project Files](https://github.com/dayvista)
 2. [My Portfolio Website](https://dayvista.dev)
+
+### Day 100: April 11th, 2020
+
+**Today's Progress**: Worked on my portfolio website, figuring out JS logic of animations.
+
+**Thoughts**: It's gonna be good. Oh wait! I did it! Nice.
+
+**Link(s) to Work**:
+
+1. [My Github, Containing Finished and In-Progress Project Files](https://github.com/dayvista)
+2. [My Portfolio Website](https://dayvista.dev)
